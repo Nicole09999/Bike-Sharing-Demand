@@ -1,4 +1,3 @@
-# bike_rentals_prediction
 # Bike Sharing Demand Prediction with AutoGluon
 
 This project predicts bike sharing demand using AutoGluon, an automated machine learning library. AutoGluon simplifies model training by automating feature engineering, model selection, and hyperparameter tuning.
